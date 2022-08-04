@@ -1,8 +1,8 @@
 class TestFormula < Formula
 	desc "Test Formula"
 	homepage "https://example.com"
-	version "2.3.4.1659642391"
-	sha256 "blahblahblah1659642391"
+	version "2.3.4.1659643570"
+	sha256 "blahblahblah1659643570"
 	url "https://example.com/v#{version.major_minor}/test-formula.#{version}.tar.gz"
 
 	def install
