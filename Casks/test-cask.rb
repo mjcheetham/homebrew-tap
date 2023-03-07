@@ -1,6 +1,6 @@
 cask 'test-cask' do
-	version "20.2015.1659644355"
-	sha256 "blahblahblah1659644355"
+	version "20.2015.1678147274"
+	sha256 "blahblahblah1678147274"
 
 	url "https://example.com/v20.2015.1659635920/test-formula.20.2015.1659635920.tar.gz"
 	name 'Test Cask'
